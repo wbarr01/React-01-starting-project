@@ -5,7 +5,7 @@ import Examples from './components/Examples.jsx';
 
 function App() {
   
-  console.log('APP COMPONENT EXECUTING..');
+  console.log('APP COMPONENT EXECUTING');
 
   return (
     <>
